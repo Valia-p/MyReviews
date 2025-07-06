@@ -12,7 +12,6 @@
 ✔ Users can leave **reviews** and give **star ratings**  
 ✔ Sorting by price, rating, or popularity  
 ✔ Optionally includes login/signup system for user identity  
-✔ Persistent storage via serialization or database (optional module)
 
 ---
 
