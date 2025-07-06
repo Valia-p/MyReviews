@@ -1,4 +1,4 @@
-# 🏡 MyReviews – Java Booking & Review App
+# 🏡 MyReviews – Java Booking Review App
 
 **MyReviews** is a Java-based desktop application inspired by platforms like Booking.com and Airbnb. It allows users to **create**, **browse**, **filter**, and **review** accommodation listings.
 
